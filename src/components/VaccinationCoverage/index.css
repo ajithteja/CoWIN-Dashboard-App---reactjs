@@ -1,0 +1,13 @@
+.coverage-container {
+  background-color: #1c1c2b;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.coverage-heading {
+  color: #94a3b8;
+  font-family: 'roboto';
+  font-size: 21px;
+  font-weight: 500;
+}
